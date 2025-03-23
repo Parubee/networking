@@ -1,8 +1,4 @@
-2022_CSE A 04 ADVAIT ARJIT S <advaitarjits2026@cs.sjcetpalai.ac.in>
-	
-Mon, Mar 10, 2:28 PM (6 days ago)
-	
-to CSE
+
 #Create a simulator object
 set ns [new Simulator]
 
